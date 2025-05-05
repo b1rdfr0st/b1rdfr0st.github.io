@@ -1,9 +1,12 @@
 ---
-title: "FileHashBot: Telegram Bot for Calculating File Hashes"
-date: 2022-06-29 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: FileHashBot - Telegram Bot for Calculating File Hashes
+published: 2022-06-29
+updated: 2022-06-29
+description: 'A Telegram bot that calculates various hash sums for files shared in chats'
+image: ''
+tags: [Telegram, Bot, Python, Security, Hash]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 Bot that calculates file hashes.

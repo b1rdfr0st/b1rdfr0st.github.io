@@ -1,9 +1,12 @@
 ---
-title: "Using Cloudflare Workers as a Proxy: A Step-by-Step Guide"
-date: 2025-04-15 00:00:00 +0300
-categories: Howto Proxy
-tags: cloudflare workers proxy Howto
-image: 
+title: Using Cloudflare Workers as a Proxy - A Step-by-Step Guide
+published: 2025-04-15
+updated: 2025-04-15
+description: 'A tutorial on creating a proxy server using Cloudflare Workers to fetch data from websites while maintaining anonymity'
+image: ''
+tags: [Cloudflare, Workers, Proxy, Tutorial, Web]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Introduction

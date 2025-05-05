@@ -1,9 +1,12 @@
 ---
-title: "AutoGroupPrivateChatFilesStoreBot: Save and Share Group Files on Telegram"
-date: 2022-06-26 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: AutoGroupPrivateChatFilesStoreBot - Save and Share Group Files on Telegram
+published: 2022-06-26
+updated: 2022-06-26
+description: 'A Telegram bot that automatically saves group files to a channel and provides retrieval links'
+image: ''
+tags: [Telegram, Bot, Python, Storage, FileSharing]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 This will just save your group files to a Channel & will provide a link to retrieve your file.

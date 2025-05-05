@@ -1,9 +1,12 @@
 ---
-title: "UnArchiveBot: The Ultimate Telegram Archive Extraction Bot"
-date: 2022-06-15 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: UnArchiveBot - The Ultimate Telegram Archive Extraction Bot
+published: 2022-06-15
+updated: 2022-06-15
+description: 'A Telegram bot that extracts various archive formats directly within Telegram chats'
+image: ''
+tags: [Telegram, Bot, Python, Archive, Compression]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 Bot that allows you to extract supported archive formats in telegram.

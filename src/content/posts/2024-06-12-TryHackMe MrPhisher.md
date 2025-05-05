@@ -1,9 +1,12 @@
 ---
-title: "TryHackMe MrPhisher Çözümleri: Adım Adım Rehber (Türkçe)"
-date: 2024-06-12 00:00:00 +0300
-categories: Blog Cybersecurity
-tags: ["ctf","TryHackMe","MrPhisher","walkthrough", "vba", "xor", "türkçe"]
-image: 
+title: TryHackMe MrPhisher Çözümleri - Adım Adım Rehber (Türkçe)
+published: 2024-06-12
+updated: 2024-06-12
+description: 'A detailed Turkish walkthrough guide for solving the MrPhisher challenge on TryHackMe, focusing on VBA and XOR operations'
+image: ''
+tags: [Security, CTF, TryHackMe, VBA, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

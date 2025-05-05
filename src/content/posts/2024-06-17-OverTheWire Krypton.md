@@ -1,9 +1,12 @@
 ---
-title: "OverTheWire Krypton Çözümleri: Adım Adım Rehber (Türkçe)"
-date: 2024-06-17 00:00:00 +0300
-categories: Blog Cybersecurity
-tags: ["linux","ctf","overthewire","Krypton","walkthrough", "encoding", "encryption", "türkçe"]
-image: 
+title: OverTheWire Krypton Çözümleri - Adım Adım Rehber (Türkçe)
+published: 2024-06-17
+updated: 2024-06-17
+description: 'A comprehensive Turkish walkthrough guide for solving the OverTheWire Krypton CTF challenges, focusing on cryptography concepts'
+image: ''
+tags: [Security, Cryptography, CTF, Tutorial, Walkthrough]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

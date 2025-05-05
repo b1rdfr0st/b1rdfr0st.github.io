@@ -1,9 +1,12 @@
 ---
-title: "TrackerGenerator: Create Your Own Torrent Trackers with Ease"
-date: 2022-05-08 12:10:00 +0200
-categories: Project
-tags: torrent
-image: 
+title: TrackerGenerator - Create Your Own Torrent Trackers with Ease
+published: 2022-05-08
+updated: 2022-05-08
+description: 'A simple Python-based tool for generating and managing torrent trackers'
+image: ''
+tags: [Torrent, Python, Network, Project]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Basit bir torrent tracker oluşturucusu. (Python)

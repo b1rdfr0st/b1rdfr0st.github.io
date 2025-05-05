@@ -1,9 +1,12 @@
 ---
 title: Demonstrating MD5 Hash Collision with Example Strings
-date: 2024-05-10 00:00:00 +0300
-categories: Blog
-tags: ["md5","collision","reversehash"]
-image: 
+published: 2024-05-10
+updated: 2024-05-10
+description: 'A practical demonstration of MD5 hash collisions using real string examples and their implications for security'
+image: ''
+tags: [Security, MD5, Cryptography, Hash, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

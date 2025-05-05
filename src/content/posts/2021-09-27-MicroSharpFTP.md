@@ -1,9 +1,12 @@
 ---
-title: "MicroSharpFTP: A Versatile and Portable FTP Client in C#"
-date: 2021-09-27 03:20:00 +0200
-categories: Project Desktop
-tags: csharp
-image: 
+title: MicroSharpFTP - A Versatile and Portable FTP Client in C#
+published: 2021-09-27
+updated: 2021-09-27
+description: 'A portable FTP client developed in C# for Windows 7+ platforms, inspired by FileZilla'
+image: ''
+tags: [CSharp, Desktop, FTP, Project]
+category: 'Project'
+draft: false
 ---
 
 Yet another (Portable) FTP Client written only in C#. Platforms: Windows 7+ Any CPU

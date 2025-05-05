@@ -1,9 +1,12 @@
 ---
 title: Setting Up PHP Development Environment with VSCode on Linux
-date: 2024-06-04 00:00:00 +0300
-categories: Howto
-tags: php linux vscode howto
-image: 
+published: 2024-06-04
+updated: 2024-06-04
+description: 'A step-by-step guide for setting up a PHP development environment using Visual Studio Code on Linux systems'
+image: ''
+tags: [PHP, Linux, VSCode, Development, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Prerequisites

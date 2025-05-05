@@ -1,9 +1,12 @@
 ---
-title: "DeleteServiceMessagesBot: Telegram Service Message Deletion Bot"
-date: 2022-05-11 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: DeleteServiceMessagesBot - Telegram Service Message Deletion Bot
+published: 2022-05-11
+updated: 2022-05-11
+description: 'An ad-free Telegram bot that automatically deletes service messages in groups such as member joins and additions'
+image: ''
+tags: [Telegram, Bot, Python, Automation]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Servis mesajlarını silen reklamsız, basit bir botum. (üye eklendi, üye katıldı, şu bunu ekledi vb. mesajlar) Yapman gereken beni grubuna yönetici olarak ekleyip silme yetkisi vermek. Sonrasını bana bırak.

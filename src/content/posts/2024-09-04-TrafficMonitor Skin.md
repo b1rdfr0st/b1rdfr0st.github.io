@@ -1,9 +1,12 @@
 ---
-title: "TrafficMonitor Skin: Enhance Your Network Monitoring Experience"
-date: 2024-09-04 00:00:00 +0300
-categories: Project
-tags: windows10 traffic monitor trafficmonitor
-image: https://i.ibb.co/zV063vJ/resim.png
+title: TrafficMonitor Skin - Enhance Your Network Monitoring Experience
+published: 2024-09-04
+updated: 2024-09-04
+description: 'A custom skin design for TrafficMonitor, a Windows network monitoring tool that displays internet speed, CPU, and RAM usage'
+image: 'https://i.ibb.co/zV063vJ/resim.png'
+tags: [Windows, Customization, Monitoring, UI, Design]
+category: 'Project'
+draft: false
 ---
 
 # About

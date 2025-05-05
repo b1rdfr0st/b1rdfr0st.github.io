@@ -1,9 +1,12 @@
 ---
-title: "Anonymous Redirect / Referrer: Enhance Your Privacy with Simple HTML + JS"
-date: 2022-06-23 12:10:00 +0200
-categories: Project
-tags: javascript security privacy
-image: 
+title: Anonymous Redirect - Enhance Your Privacy with Simple HTML + JS
+published: 2022-06-23
+updated: 2022-06-23
+description: 'A simple HTML and JavaScript implementation for creating anonymous redirects and hiding referrer information'
+image: ''
+tags: [JavaScript, Security, Privacy, Web]
+category: 'Project'
+draft: false
 ---
 
 Anonim linkler oluşturmak için basit HTML + JS kodu.

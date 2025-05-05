@@ -1,9 +1,12 @@
 ---
-title: "Bypass Shortlinks with Fr0stB1rd uBlock Filter List"
-date: 2024-09-28 00:00:00 +0300
-categories: Project FilterList
-tags: shortener bypass shortlink
-image: 
+title: Bypass Shortlinks with Fr0stB1rd uBlock Filter List
+published: 2024-09-28
+updated: 2024-09-28
+description: 'A custom uBlock Origin filter list that helps bypass URL shorteners and optimize browsing experience'
+image: ''
+tags: [Privacy, Security, Web, Filtering, Optimization]
+category: 'Project'
+draft: false
 ---
 
 # Fr0stB1rd uBlock Filter List

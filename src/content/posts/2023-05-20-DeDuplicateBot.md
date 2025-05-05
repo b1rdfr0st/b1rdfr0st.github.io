@@ -1,9 +1,12 @@
 ---
-title: "DeDuplicateBot: Telegram Duplicate File Remover"
-date: 2023-05-20 03:20:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: DeDuplicateBot - Telegram Duplicate File Remover
+published: 2023-05-20
+updated: 2023-05-20
+description: 'A Telegram bot that identifies and removes duplicate files, videos, and audio messages in groups and channels'
+image: ''
+tags: [Telegram, Bot, Python, FileManagement, Automation]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Esenlikler. Grupta/kanalda yinelenen dosya/video/sesleri silebilirim.

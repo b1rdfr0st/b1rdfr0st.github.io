@@ -1,9 +1,12 @@
 ---
-title: "AnonymousMessageForwarderBot: Telegram Anonymous Message Forwarder"
-date: 2022-06-19 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: AnonymousMessageForwarderBot - Telegram Anonymous Message Forwarder
+published: 2022-06-19
+updated: 2022-06-19
+description: 'A Telegram bot that anonymizes and forwards messages, removing original sender information'
+image: ''
+tags: [Telegram, Bot, Python, Privacy, Anonymous]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Ben basit bir yönlendirici botuyum.

@@ -1,9 +1,12 @@
 ---
-title: "DirectlinkRobot: Generate Direct Download Links from Telegram"
-date: 2024-07-15 00:00:00 +0300
-categories: Project TelegramBot
-tags: telegram bot directlink linkgenerator
-image: 
+title: DirectlinkRobot - Generate Direct Download Links from Telegram
+published: 2024-07-15
+updated: 2024-07-15
+description: 'A Telegram bot using Cloudflare Workers to generate direct download links for files, videos, and audio content'
+image: ''
+tags: [Telegram, Bot, CloudflareWorkers, FileSharing, Automation]
+category: 'Project'
+draft: false
 ---
 
 # Directlink Robot

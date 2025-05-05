@@ -1,9 +1,12 @@
 ---
-title: "Chirpy Jekyll Theme: A Minimal, Responsive, and Powerful Theme for Professional Writing"
-date: 2022-07-14 03:20:00 +0200
-categories: Project
-tags: ["github", "jekyll", "html", "blog"]
-image: 
+title: Chirpy Jekyll Theme - A Minimal, Responsive, and Powerful Theme for Professional Writing
+published: 2022-07-14
+updated: 2022-07-14
+description: 'A customized version of the Chirpy Jekyll theme with additional features for professional blogging and documentation'
+image: ''
+tags: [Jekyll, GitHub, HTML, Blog, Web]
+category: 'Project'
+draft: false
 ---
 
 A minimal, responsive, and powerful Jekyll theme for presenting professional writing.

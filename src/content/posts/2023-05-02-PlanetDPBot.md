@@ -1,9 +1,12 @@
 ---
-title: "PlanetDPBot: PlanetDP Altyazı İndirici Telegram Botu"
-date: 2023-05-02 03:20:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: PlanetDPBot - PlanetDP Altyazı İndirici Telegram Botu
+published: 2023-05-02
+updated: 2023-05-02
+description: 'A Telegram bot for downloading subtitles from PlanetDP, a Turkish subtitle database'
+image: ''
+tags: [Telegram, Bot, Python, Subtitles, Media]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 PlanetDP Altyazı İndirici Telegram Botu

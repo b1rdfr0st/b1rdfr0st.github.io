@@ -1,9 +1,12 @@
 ---
-title: "New Message Forwarder Telegram Bot (NMFTB)"
-date: 2024-12-25 00:00:00 +0300
-categories: Project TelegramBot
-tags: telegram bot typescript cloudflare workers serverless
-image: 
+title: New Message Forwarder Telegram Bot (NMFTB)
+published: 2024-12-25
+updated: 2024-12-25
+description: 'A serverless Telegram bot built with Cloudflare Workers for automated message forwarding between channels with advanced filtering'
+image: ''
+tags: [Telegram, Bot, TypeScript, Cloudflare, Workers, Serverless]
+category: 'Project'
+draft: false
 ---
 
 A powerful Telegram bot built on Cloudflare Workers that automatically forwards new messages between channels with advanced filtering capabilities. [Source Code](https://gitlab.com/fr0stb1rd/new-message-forwarder-telegram-bot/) \| [Blog Post](https://fr0stb1rd.gitlab.io/posts/New-Message-Forwarder-Telegram-Bot/) \| [Türkçe](https://gitlab.com/fr0stb1rd/new-message-forwarder-telegram-bot/-/blob/main/README.TR.md)

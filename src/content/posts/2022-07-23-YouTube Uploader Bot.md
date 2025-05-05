@@ -1,9 +1,12 @@
 ---
-title: "utube: YouTube Uploader Telegram Bot"
-date: 2022-07-23 03:20:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python youtube
-image: 
+title: utube - YouTube Uploader Telegram Bot
+published: 2022-07-23
+updated: 2022-07-23
+description: 'A Telegram bot that uses YouTube Data API v3 to upload videos directly to YouTube from Telegram'
+image: ''
+tags: [Telegram, Bot, Python, YouTube, Upload]
+category: 'Project'
+draft: false
 ---
 
 Simple [telegram bot](https://core.telegram.org/bots "Telegram Bots") which uses [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube. Written in python3. Here is [repo](https://github.com/fr0stb1rd/utube).

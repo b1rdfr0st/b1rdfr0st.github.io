@@ -1,9 +1,12 @@
 ---
-title: "QMirrorLeechBot: Telegram Bot for Mirroring and Leeching"
-date: 2022-05-01 12:10:00 +0200
-categories: Project
-tags: ["telegram", "torrent", "python", "telegram-bot"]
-image: 
+title: QMirrorLeechBot - Telegram Bot for Mirroring and Leeching
+published: 2022-05-01
+updated: 2022-05-01
+description: 'A Telegram bot for mirroring files from various sources to Google Drive or Telegram, with support for torrents and direct downloads'
+image: ''
+tags: [Telegram, Bot, Python, Torrent, GoogleDrive]
+category: 'Project'
+draft: false
 ---
 
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) and [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot). Written with [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) telagram api.

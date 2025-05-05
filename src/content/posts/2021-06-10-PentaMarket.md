@@ -1,9 +1,12 @@
 ---
-title: "PentaMarket: C# ile Barkodlu Satış Programı"
-date: 2021-06-10 12:10:00 +0200
-categories: Project Desktop
-tags: csharp
-image: https://i.ibb.co/QQGjGGR/resim.png
+title: PentaMarket - C# ile Barkodlu Satış Programı
+published: 2021-06-10
+updated: 2021-06-10
+description: 'Visual Studio C# ile geliştirilmiş, SqlLocalDb ve EntityFramework kullanan barkodlu satış programı'
+image: 'https://i.ibb.co/QQGjGGR/resim.png'
+tags: [CSharp, Desktop, EntityFramework, SqlLocalDb, Project]
+category: 'Project'
+draft: false
 ---
 # PentaMarket: C# Barkodlu Satış Programı
 

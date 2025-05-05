@@ -1,9 +1,12 @@
 ---
-title: "NobetciEczaneRobot: Nobetçi Eczaneler Telegram Botu"
-date: 2022-07-15 03:20:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: NobetciEczaneRobot - Nobetçi Eczaneler Telegram Botu
+published: 2022-07-15
+updated: 2022-07-15
+description: 'A Telegram bot that lists pharmacies on duty in Turkey, providing location-based pharmacy information'
+image: ''
+tags: [Telegram, Bot, Python, Healthcare, Location]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Türkiye'deki Nöbetçi Eczaneleri Listeleyen Bot

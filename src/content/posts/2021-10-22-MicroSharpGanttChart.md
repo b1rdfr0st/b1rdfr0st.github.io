@@ -1,9 +1,12 @@
 ---
-title: "MicroSharpGanttChart: Portable Gantt Chart Application in C#"
-date: 2021-10-22 12:10:00 +0200
-categories: Project Desktop
-tags: csharp
-image: 
+title: MicroSharpGanttChart - Portable Gantt Chart Application in C#
+published: 2021-10-22
+updated: 2021-10-22
+description: 'A portable Gantt chart application developed in C# Forms for project management'
+image: ''
+tags: [CSharp, Desktop, Project, GanttChart]
+category: 'Project'
+draft: false
 ---
 
 Yet another (Portable) Simple gantt chart application in c# forms.

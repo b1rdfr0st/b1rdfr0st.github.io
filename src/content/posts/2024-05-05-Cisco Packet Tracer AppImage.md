@@ -1,9 +1,12 @@
 ---
-title: "Simplified Installation of Cisco Packet Tracer with AppImage"
-date: 2024-05-05 00:00:00 +0300
-categories: Project Desktop
-tags: ["cisco","packettracer","appimage"]
-image: 
+title: Simplified Installation of Cisco Packet Tracer with AppImage
+published: 2024-05-05
+updated: 2024-05-05
+description: 'A guide to installing Cisco Packet Tracer using AppImage format for Linux'
+image: ''
+tags: [Cisco, PacketTracer, AppImage, Linux]
+category: 'Project'
+draft: false
 ---
 
 ## What is Cisco Packet Tracer AppImage?

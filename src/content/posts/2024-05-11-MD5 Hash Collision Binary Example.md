@@ -1,9 +1,12 @@
 ---
 title: Demonstrating MD5 Hash Collision with Binary Files
-date: 2024-05-11 00:00:00 +0300
-categories: Blog
-tags: ["md5","collision","binary"]
-image: 
+published: 2024-05-11
+updated: 2024-05-11
+description: 'A technical exploration of MD5 hash collisions using binary files, demonstrating practical security implications'
+image: ''
+tags: [Security, MD5, Cryptography, Binary, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

@@ -1,9 +1,12 @@
 ---
-title: "Text-to-Picture Telegram Bot (TTPTB)"
-date: 2025-03-20 00:00:00 +0300
-categories: Project TelegramBot
-tags: telegram bot typescript cloudflare workers serverless ai image-generation
-image: 
+title: Text-to-Picture Telegram Bot (TTPTB)
+published: 2025-03-20
+updated: 2025-03-20
+description: 'A serverless Telegram bot for generating images from text using multiple AI models like SDXL, Lightning, and Dreamshaper'
+image: ''
+tags: [Telegram, Bot, TypeScript, Cloudflare, Workers, AI, ImageGeneration]
+category: 'Project'
+draft: false
 ---
 
 A powerful Telegram bot built on Cloudflare Workers that generates images from text descriptions using multiple AI models. The bot supports various state-of-the-art image generation models and provides a user-friendly interface for creating stunning visuals from text prompts. [Blog Post](https://fr0stb1rd.gitlab.io/posts/Text-To-Picture-Telegram-Bot/) \| [Live Bot](https://t.me/text_to_picture_robot)

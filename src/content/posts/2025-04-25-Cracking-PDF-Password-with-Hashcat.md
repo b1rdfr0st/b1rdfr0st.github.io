@@ -1,9 +1,12 @@
 ---
-title: "Cracking PDF Password with Hashcat: A Step-by-Step Guide"
-date: 2025-04-25 00:00:00 +0300
-categories: Howto Security
-tags: hashcat pdf password cracking Howto security pentest
-image: /assets/img/posts/2025-04-25-Cracking-PDF-Password-with-Hashcat/hashcat-progress.jpg
+title: Cracking PDF Password with Hashcat - A Step-by-Step Guide
+published: 2025-04-25
+updated: 2025-04-25
+description: 'A detailed tutorial on using Hashcat to crack password-protected PDF files on Kali Linux'
+image: '/assets/img/posts/2025-04-25-Cracking-PDF-Password-with-Hashcat/hashcat-progress.jpg'
+tags: [Hashcat, PDF, Security, Password, Pentesting, Linux]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Introduction

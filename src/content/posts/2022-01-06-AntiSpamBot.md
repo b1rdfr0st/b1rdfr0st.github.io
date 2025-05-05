@@ -1,9 +1,12 @@
 ---
-title: "AntiSpamBot: Telegram Bot with Multiple Protection Options"
-date: 2022-01-06 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: AntiSpamBot - Telegram Bot with Multiple Protection Options
+published: 2022-01-06
+updated: 2022-01-06
+description: 'A Telegram bot featuring 5 different protection options to combat spam in groups'
+image: ''
+tags: [Telegram, Bot, Python, Security, AntiSpam]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 Anti spam bot with 5 different protection options

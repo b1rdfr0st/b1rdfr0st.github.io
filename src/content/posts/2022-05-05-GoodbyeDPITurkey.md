@@ -1,9 +1,12 @@
 ---
-title: "GoodbyeDPITurkey: Bypass Internet Censorship in Turkey"
-date: 2022-05-05 12:10:00 +0200
-categories: Project
-tags: security
-image: 
+title: GoodbyeDPITurkey - Bypass Internet Censorship in Turkey
+published: 2022-05-05
+updated: 2022-05-05
+description: 'Turkish configuration settings for GoodbyeDPI to bypass Deep Packet Inspection based internet censorship'
+image: ''
+tags: [Security, Privacy, Censorship, Network]
+category: 'Project'
+draft: false
 ---
 
 Bu depo ile Türkiye için GoodByeDPITurkey ayarlarını çekebilirsiniz.

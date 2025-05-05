@@ -1,9 +1,12 @@
 ---
-title: "WarpPlusBooster: Automate Cloudflare Warp+ with Ease"
-date: 2022-05-13 12:10:00 +0200
-categories: Project
-tags: cloudflare
-image: 
+title: WarpPlusBooster - Automate Cloudflare Warp+ with Ease
+published: 2022-05-13
+updated: 2022-05-13
+description: 'A Python tool for automating Cloudflare Warp+ operations, deployable on Heroku or local machine'
+image: ''
+tags: [Cloudflare, Python, Automation, Network]
+category: 'Project'
+draft: false
 ---
 
 Automate Warp+ cloudflare with heroku (or local python interpreter)

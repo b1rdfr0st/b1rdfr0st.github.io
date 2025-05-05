@@ -1,9 +1,12 @@
 ---
-title: "TurkishAdblockList: Turkish Adblock List for Blocking Gambling, Scams, and Ads"
-date: 2022-01-02 12:10:00 +0200
-categories: Project FilterList
-tags: security
-image: 
+title: TurkishAdblockList - Turkish Adblock List for Blocking Gambling, Scams, and Ads
+published: 2022-01-02
+updated: 2022-01-02
+description: 'A comprehensive Turkish adblock list targeting gambling sites, scams, malicious ads, and other harmful content'
+image: ''
+tags: [Security, Privacy, Adblock, FilterList]
+category: 'Project'
+draft: false
 ---
 
 Bahis, dolandırıcılık, reklam vb. virüslü binbir belayı engeller.

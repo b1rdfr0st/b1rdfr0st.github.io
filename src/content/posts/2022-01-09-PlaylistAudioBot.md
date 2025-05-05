@@ -1,9 +1,12 @@
 ---
-title: "PlaylistAudioBot: Telegram Bot for Downloading Playlists"
-date: 2022-01-09 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: PlaylistAudioBot - Telegram Bot for Downloading Playlists
+published: 2022-01-09
+updated: 2022-01-09
+description: 'A Telegram bot that downloads audio from playlists using youtube-dl in m4a format'
+image: ''
+tags: [Telegram, Bot, Python, Audio, Download]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 Telegram playlist download bot with ytdl (m4a, only audio)

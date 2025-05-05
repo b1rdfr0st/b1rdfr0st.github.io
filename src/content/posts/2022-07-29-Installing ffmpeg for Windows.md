@@ -1,9 +1,12 @@
 ---
-title: "Installing FFmpeg on Windows: A Step-by-Step Guide"
-date: 2022-07-29 03:20:00 +0200
-categories: Howto Windows
-tags: ffmpeg windows Howto
-image: 
+title: Installing FFmpeg on Windows - A Step-by-Step Guide
+published: 2022-07-29
+updated: 2022-07-29
+description: 'A comprehensive guide for installing and setting up FFmpeg multimedia framework on Windows operating system'
+image: ''
+tags: [FFmpeg, Windows, Tutorial, Multimedia, Software]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Prerequisites

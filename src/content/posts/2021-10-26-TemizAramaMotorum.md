@@ -1,9 +1,12 @@
 ---
-title: "TemizAramaMotorum: Spam ve Sahte İçeriklerden Arınmış Arama Motoru"
-date: 2021-10-26 12:10:00 +0200
-categories: Project
-tags: security privacy
-image: https://gitlab.com/fr0stb1rd/temizaramamotorum/-/raw/main/img/vs.png
+title: TemizAramaMotorum - Spam ve Sahte İçeriklerden Arınmış Arama Motoru
+published: 2021-10-26
+updated: 2021-10-26
+description: 'Spam ve sahte içeriklerden arındırılmış, güvenli ve temiz bir arama motoru deneyimi sunan proje'
+image: 'https://gitlab.com/fr0stb1rd/temizaramamotorum/-/raw/main/img/vs.png'
+tags: [Security, Privacy, Search, Project]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 **Çöp haber sitelerinden ve sahte içeriklerden arınmış tertemiz bir arama motoru deneyimi**

@@ -1,9 +1,12 @@
 ---
-title: "ChatSizeBot: Telegram Chat Size Calculator Bot"
-date: 2022-07-12 03:20:00 +0200
-categories: Project
-tags: ["telegram", "python", "telegram-bot"]
-image: 
+title: ChatSizeBot - Telegram Chat Size Calculator Bot
+published: 2022-07-12
+updated: 2022-07-12
+description: 'A Telegram bot that calculates the total size of media and files in a chat or channel'
+image: ''
+tags: [Telegram, Bot, Python, Analytics, Storage]
+category: 'Project'
+draft: false
 ---
 
 ## ChatSizeBot

@@ -1,9 +1,12 @@
 ---
-title: "CleanForwardBot: Anonymize and Clean Telegram Messages"
-date: 2024-07-15 00:00:00 +0300
-categories: Project TelegramBot
-tags: telegram bot cleanforward ForwardTagRemover
-image: 
+title: CleanForwardBot - Anonymize and Clean Telegram Messages
+published: 2024-07-15
+updated: 2024-07-15
+description: 'A Telegram bot running on Cloudflare Workers that removes forwarded tags and anonymizes messages'
+image: ''
+tags: [Telegram, Bot, CloudflareWorkers, Privacy, Automation]
+category: 'Project'
+draft: false
 ---
 
 # Clean Forward Bot (Forward Tag Remover Telegram Bot)

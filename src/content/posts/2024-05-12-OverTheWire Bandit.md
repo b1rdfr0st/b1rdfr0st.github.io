@@ -1,9 +1,12 @@
 ---
-title: "OverTheWire Bandit Çözümleri: Adım Adım Rehber (Türkçe)"
-date: 2024-05-12 00:00:00 +0300
-categories: Blog Cybersecurity
-tags: ["linux","ctf","overthewire","bandit","walkthrough", "encoding", "encryption", "türkçe"]
-image: 
+title: OverTheWire Bandit Çözümleri - Adım Adım Rehber (Türkçe)
+published: 2024-05-12
+updated: 2024-05-12
+description: 'A comprehensive Turkish walkthrough guide for solving the OverTheWire Bandit CTF challenges, focusing on Linux and security concepts'
+image: ''
+tags: [Security, Linux, CTF, Tutorial, Walkthrough]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

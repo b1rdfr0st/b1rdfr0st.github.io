@@ -1,9 +1,12 @@
 ---
-title: "OverTheWire Leviathan Çözümleri: Adım Adım Rehber (Türkçe)"
-date: 2024-06-15 00:00:00 +0300
-categories: Blog Cybersecurity
-tags: ["linux","ctf","overthewire","Leviathan","walkthrough", "encoding", "encryption", "türkçe"]
-image: 
+title: OverTheWire Leviathan Çözümleri - Adım Adım Rehber (Türkçe)
+published: 2024-06-15
+updated: 2024-06-15
+description: 'A comprehensive Turkish walkthrough guide for solving the OverTheWire Leviathan CTF challenges, focusing on Linux security concepts'
+image: ''
+tags: [Security, Linux, CTF, Tutorial, Walkthrough]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Video

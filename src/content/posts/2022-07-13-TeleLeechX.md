@@ -1,9 +1,12 @@
 ---
-title: "TeleLeechX: Powerful Telegram Leech Bot with 4GB File Support"
-date: 2022-07-13 03:20:00 +0200
-categories: Project
-tags: ["telegram", "python", "telegram-bot"]
-image: 
+title: TeleLeechX - Powerful Telegram Leech Bot with 4GB File Support
+published: 2022-07-13
+updated: 2022-07-13
+description: 'A Telegram bot for downloading and uploading large files up to 4GB, supporting various sources including torrents and direct links'
+image: ''
+tags: [Telegram, Bot, Python, FileSharing, Torrent]
+category: 'Project'
+draft: false
 ---
 
 ## TeleLeechX

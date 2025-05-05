@@ -1,9 +1,12 @@
 ---
-title: "Heroku Dyno Switcher: Keep Your Heroku App Alive Forever Without Dyno Hour Limits"
-date: 2022-07-30 03:20:00 +0200
-categories: Project
-tags: telegram heroku python
-image: 
+title: Heroku Dyno Switcher - Keep Your Heroku App Alive Forever Without Dyno Hour Limits
+published: 2022-07-30
+updated: 2022-07-30
+description: 'A Python project that helps maintain Heroku applications running continuously by managing dyno hours without requiring a credit card'
+image: ''
+tags: [Heroku, Python, DevOps, Automation, Cloud]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Heroku uygulamanızı dyno saatlerinden endişe duymadan sonsuza kadar canlı hale getirmek için küçük bir python projesi. Daha fazla dino saati almak için kredi kartı ekleme zahmetine girmenize gerek yok.

@@ -1,9 +1,12 @@
 ---
-title: "WaybackBot: Automate Your Web Archiving with Telegram"
-date: 2022-06-17 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: WaybackBot - Automate Your Web Archiving with Telegram
+published: 2022-06-17
+updated: 2022-06-17
+description: 'A Telegram bot that automatically archives web pages using the Wayback Machine when given a URL'
+image: ''
+tags: [Telegram, Bot, Python, Archive, Wayback]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 If you send me a link i will wayback it for you.

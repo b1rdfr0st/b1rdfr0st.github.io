@@ -1,9 +1,12 @@
 ---
-title: "Group Member Balancer Telegram Bot (GMBTB)"
-date: 2025-02-17 00:00:00 +0300
-categories: Project TelegramBot
-tags: telegram bot typescript cloudflare workers serverless balancer
-image: 
+title: Group Member Balancer Telegram Bot (GMBTB)
+published: 2025-02-17
+updated: 2025-02-17
+description: 'A serverless Telegram bot for automated group member management with advanced balancing features'
+image: ''
+tags: [Telegram, Bot, TypeScript, Cloudflare, Workers, Serverless, Balancer]
+category: 'Project'
+draft: false
 ---
 
 A powerful Telegram bot built on Cloudflare Workers that automatically balances group members by setting rules to ban or kick users based on their membership in other groups. [Source Code](https://gitlab.com/fr0stb1rd/group-member-balancer-telegram-bot/) \| [Blog Post](https://fr0stb1rd.gitlab.io/posts/Group-Member-Balancer-Telegram-Bot/) \| [Live Bot](https://t.me/gmbtelegrambot)

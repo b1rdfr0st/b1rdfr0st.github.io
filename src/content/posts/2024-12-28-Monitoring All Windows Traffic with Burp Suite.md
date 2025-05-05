@@ -1,9 +1,12 @@
 ---
-title: "Monitoring All Windows Traffic with Burp Suite"
-date: 2024-12-28 00:00:00 +0300
-categories: Blog Cybersecurity
-tags: ["burp suite", "network monitoring", "security", "windows"]
-image: 
+title: Monitoring All Windows Traffic with Burp Suite
+published: 2024-12-28
+updated: 2024-12-28
+description: 'A comprehensive guide on configuring Burp Suite to monitor and analyze all network traffic on Windows systems'
+image: ''
+tags: [BurpSuite, NetworkMonitoring, Security, Windows, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 Burp Suite is a powerful tool used for testing the security of web applications. One of its main features is the ability to capture and analyze network traffic. In this article, we will show you how to set up Burp Suite to monitor all traffic on a Windows computer.

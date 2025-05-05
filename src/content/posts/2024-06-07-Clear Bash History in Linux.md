@@ -1,9 +1,12 @@
 ---
-title: "Linux'ta Bash ve Zsh Geçmişini Temizleme"
-date: 2024-06-07 00:00:00 +0300
-categories: Howto
-tags: linux bash history
-image: 
+title: Linux'ta Bash ve Zsh Geçmişini Temizleme
+published: 2024-06-07
+updated: 2024-06-07
+description: 'A guide in Turkish for clearing command history in Bash and Zsh shells on Linux systems'
+image: ''
+tags: [Linux, Bash, Shell, Security, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## .zsh_history Dosyasını Bulma

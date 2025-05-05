@@ -1,9 +1,12 @@
 ---
-title: "Reverse Hash API with Express and MongoDB"
-date: 2024-04-25 03:20:00 +0200
-categories: Project API
-tags: ["hash","md5","sha1","sha256"]
-image: 
+title: Reverse Hash API with Express and MongoDB
+published: 2024-04-25
+updated: 2024-04-25
+description: 'A REST API built with Express.js and MongoDB for reversing various hash algorithms including MD5, SHA1, and SHA256'
+image: ''
+tags: [API, Express, MongoDB, Security, Hash]
+category: 'Project'
+draft: false
 ---
 # Reverse Hash API with express and MongoDB.
 

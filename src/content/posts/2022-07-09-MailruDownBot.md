@@ -1,9 +1,12 @@
 ---
-title: "MailruDownBot: Telegram Mail.ru File Transfer Bot"
-date: 2022-07-09 03:20:00 +0200
-categories: Project
-tags: ["telegram", "python", "telegram-bot"]
-image: 
+title: MailruDownBot - Telegram Mail.ru File Transfer Bot
+published: 2022-07-09
+updated: 2022-07-09
+description: 'A Telegram bot that transfers files from Mail.ru cloud storage to Telegram'
+image: ''
+tags: [Telegram, Bot, Python, FileTransfer, Cloud]
+category: 'Project'
+draft: false
 ---
 
 🇹🇷 Mail.ru'dan telegram'a dosya aktaran bot.

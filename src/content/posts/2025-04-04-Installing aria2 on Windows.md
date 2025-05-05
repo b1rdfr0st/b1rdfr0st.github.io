@@ -1,9 +1,12 @@
 ---
-title: "Installing aria2 on Windows: A Step-by-Step Guide"
-date: 2025-04-04 00:00:00 +0300
-categories: Howto Windows
-tags: aria2 windows Howto
-image: 
+title: Installing aria2 on Windows - A Step-by-Step Guide
+published: 2025-04-04
+updated: 2025-04-04
+description: 'A comprehensive guide for installing and configuring aria2 download manager on Windows systems'
+image: ''
+tags: [Aria2, Windows, Download, Tutorial]
+category: 'Tutorial'
+draft: false
 ---
 
 ## Prerequisites

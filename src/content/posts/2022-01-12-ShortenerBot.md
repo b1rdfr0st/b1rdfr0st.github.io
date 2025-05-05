@@ -1,9 +1,12 @@
 ---
-title: "ShortenerBot: Telegram Link Shortener with Multiple Services"
-date: 2022-01-12 12:10:00 +0200
-categories: Project TelegramBot
-tags: telegram bot python
-image: 
+title: ShortenerBot - Telegram Link Shortener with Multiple Services
+published: 2022-01-12
+updated: 2022-01-12
+description: 'A Telegram bot that supports 20+ URL shortening services for link shortening'
+image: ''
+tags: [Telegram, Bot, Python, URL, Shortener]
+category: 'Project'
+draft: false
 ---
 
 🇬🇧 Telegram Link Shortener Bot (11 + 9 Shorteners)

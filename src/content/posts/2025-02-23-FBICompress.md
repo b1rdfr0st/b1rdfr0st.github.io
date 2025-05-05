@@ -1,9 +1,12 @@
 ---
-title: "FBICompress: Compress Images Without Limits on Compressor.io"
-date: 2025-02-23 00:00:00 +0300
-categories: Project Cybersecurity
-tags: compression image-compression bypass proxy cloudflare
-image: 
+title: FBICompress - Compress Images Without Limits on Compressor.io
+published: 2025-02-23
+updated: 2025-02-23
+description: 'A tool for unlimited image compression using compressor.io with Cloudflare bypass and proxy support'
+image: ''
+tags: [Compression, ImageProcessing, Cloudflare, Python, Proxy]
+category: 'Project'
+draft: false
 ---
 
 **FBICompress** is a powerful image compression tool that utilizes [compressor.io](https://compressor.io) to reduce image sizes while maintaining quality. It supports **JPG, JPEG, PNG, GIF, and WEBP** formats. The script leverages **cloudscraper** to bypass Cloudflare protection and requires **valid proxies** to avoid rate limits. [Blog Post](https://fr0stb1rd.gitlab.io/posts/FBICompress/) \| [Source Code](https://gitlab.com/fr0stb1rd/fbicompress) \| [Türkçe](https://gitlab.com/fr0stb1rd/fbicompress/-/blob/master/README.TR.md)
