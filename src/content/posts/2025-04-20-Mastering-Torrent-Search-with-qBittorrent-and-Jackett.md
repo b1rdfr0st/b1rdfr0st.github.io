@@ -3,7 +3,7 @@ title: Mastering Torrent Search with qBittorrent and Jackett
 published: 2025-04-20
 updated: 2025-04-20
 description: 'A comprehensive guide on integrating qBittorrent with Jackett for efficient multi-site torrent searching'
-image: 'https://i.ibb.co/GftXTxvf/68747470733a2f2f692e696d6775722e636f6d2f75436177674c612e706e67'
+image: 'https://i.ibb.co/GftXTxvf/68747470733a2f2f692e696d6775722e636f6d2f75436177674c612e706e67.png'
 tags: [qBittorrent, Jackett, Torrent, Tutorial]
 category: 'Tutorial'
 draft: false
