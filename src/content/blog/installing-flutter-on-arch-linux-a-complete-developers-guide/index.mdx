@@ -1,0 +1,137 @@
+---
+title: "Installing Flutter on Arch Linux: A Complete Developer's Guide"
+date: 2025-10-13
+categories: [Flutter, Linux, Development]
+tags: [flutter, arch linux, installation, guide, development, android studio, sdk, ninja]
+description: "A step-by-step guide to setting up a complete Flutter development environment on Arch Linux, from installing dependencies and the SDK to configuring Android Studio and your shell."
+---
+
+> This guide provides a comprehensive walkthrough for installing Flutter on Arch Linux. For the official and most up-to-date instructions, always consult the [official Flutter documentation](https://docs.flutter.dev/get-started/install/linux).
+{: .prompt-danger }
+
+Welcome, developers! If you're an Arch Linux user eager to dive into cross-platform app development with Flutter, you've come to the right place. This guide will walk you through every step of setting up a complete Flutter development environment on your machine. We'll cover everything from system dependencies to the final `flutter doctor` check.
+
+### ⚙️ Step 1: Prepare Your System
+
+Before we get to Flutter itself, we need to ensure your system has the necessary build tools. Flutter uses the **Ninja** build system for creating Linux desktop applications.
+
+First, let's install `ninja` and `mesa-utils` for OpenGL support:
+
+```bash
+sudo pacman -Syu
+sudo pacman -S ninja mesa-utils
+```
+
+Then install other dependencies:
+
+```bash
+sudo pacman -S curl git unzip xz zip mesa
+```
+
+### 🤖 Step 2: Install Android Studio
+
+A full Flutter setup requires the Android SDK, emulator, and platform tools. The easiest way to get them is by installing **Android Studio**. On Arch Linux, you can install it from the Arch User Repository (AUR) using a helper like `yay`.
+
+```bash
+# Install yay if you haven't already
+sudo pacman -S yay
+
+# Install Android Studio from AUR
+yay -S android-studio
+```
+
+Once installed, launch Android Studio and use the SDK Manager to get the necessary components:
+1.  Open Android Studio and navigate to **Tools → SDK Manager**.
+2.  Switch to the **SDK Tools** tab.
+3.  Check the boxes for:
+    *   **Android SDK Command-line Tools (latest)**
+    *   **Android SDK Platform-Tools**
+    *   **Android SDK Build-Tools**
+4.  Click **Apply** to download and install them.
+
+### 🐦 Step 3: Download and Extract the Flutter SDK
+
+Now it's time to get the Flutter SDK.
+
+1.  **Download the SDK:**
+    Head over to the [Flutter SDK archive](https://docs.flutter.dev/install/archive) and download the latest stable release for Linux. It will be a `.tar.xz` file.
+
+2.  **Create a Directory:**
+    It's good practice to keep your SDKs in a dedicated folder. Let's create one:
+    ```bash
+    mkdir -p ~/development
+    ```
+
+3.  **Extract the Archive:**
+    Extract the downloaded SDK into your new directory. Replace the filename with the one you downloaded.
+    ```bash
+    tar -xf ~/Downloads/flutter_linux_*.tar.xz -C ~/development/
+    ```
+    This will create a `flutter` directory inside `~/development`.
+
+### 🛠️ Step 4: Add Flutter to Your PATH
+
+To run `flutter` and `dart` commands from any terminal, you need to add the SDK's `bin` directory to your system's `PATH`.
+
+First, check which shell you're using:
+```bash
+echo $SHELL
+```
+
+For **Bash** (the default on most systems), run this command:
+```bash
+echo 'export PATH="$HOME/development/flutter/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+Close and reopen your terminal for the changes to take effect.
+
+### ✅ Step 5: Verify the Installation with Flutter Doctor
+
+With everything in place, it's time to run Flutter's built-in diagnostic tool, `flutter doctor`. This command checks your environment and displays a report of the status of your Flutter installation.
+
+```bash
+flutter doctor
+```
+
+`flutter doctor` will guide you through any remaining setup tasks, such as accepting Android licenses.
+
+### 📝 Step 6: Final Configuration
+
+#### Accept Android Licenses
+If `flutter doctor` warns you about Android licenses, run the following command and accept all of them by typing `y`:
+
+```bash
+flutter doctor --android-licenses
+```
+
+#### Configure Chrome for Web Development
+For web development, Flutter uses Google Chrome. If `flutter doctor` can't find it, you may need to set the `CHROME_EXECUTABLE` environment variable, especially if you installed it from the AUR.
+
+```bash
+echo 'export CHROME_EXECUTABLE=/usr/bin/google-chrome-stable' >> ~/.bashrc
+source ~/.bashrc
+```
+
+### 🎉 Step 7: All Systems Go!
+
+Run `flutter doctor` one last time. If everything is set up correctly, you should see all checkmarks:
+
+```bash
+[fr0stb1rd@archlinux bin]$ flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.35.6, on Arch Linux 6.17.1-arch1-1, locale en_US.UTF-8)
+[✓] Android toolchain - develop for Android devices (Android SDK version 36.1.0)
+[✓] Chrome - develop for the web
+[✓] Linux toolchain - develop for Linux desktop
+[✓] Android Studio (version 2025.1.4)
+[✓] Connected device (2 available)
+[✓] Network resources
+
+• No issues found!
+[fr0stb1rd@archlinux bin]$ 
+
+```
+
+Happy coding!
+
